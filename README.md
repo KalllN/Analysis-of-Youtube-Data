@@ -1,5 +1,7 @@
 # Trending Indian YouTube Video Statistics
 
+If you're curious about Youtube like
+
 1. Which channel has the most trending videos, likes, comments and dislikes
 2. Which are the 5 most popular videos?
 3. Is there a relationship between likes, views and comments?
