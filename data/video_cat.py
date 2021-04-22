@@ -8,7 +8,7 @@ for index, row in category.iterrows():
     
     video_name.append(x['snippet']['title'])
 
-category = pd.DataFrame(zip(id_video, video_name),columns=['category_id', 'category'])
+category = pd.DataFrame(zip(id_video, video_name), columns = ['category_id', 'category'])
 
 category['category_id'] = category['category_id'].astype('int64')
 
